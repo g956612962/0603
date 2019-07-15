@@ -11,6 +11,9 @@ short
             System.out.println("main");
 asdasdasdasdas
         }
+
+
+        asdasdasdasd
     }
 
 
