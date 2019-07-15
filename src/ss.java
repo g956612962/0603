@@ -7,7 +7,7 @@ public class ss  {
         Thread th = new Thread(thread02,"用户");
         th.start();
         for(int i=0;i<50;i++){
-
+short
             System.out.println("main");
         }
     }
