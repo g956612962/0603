@@ -9,6 +9,7 @@ public class ss  {
         for(int i=0;i<50;i++){
 short
             System.out.println("main");
+asdasdasdasdas
         }
     }
 
